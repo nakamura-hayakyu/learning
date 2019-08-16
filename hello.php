@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         <?php
         print 'Hello!world'
-        ?>
+	print 'orange'
+
+	?>
     </body>
 </html>
